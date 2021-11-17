@@ -8,4 +8,4 @@
   <body>
     <img src="images/firefox-icon.png" alt="My test image">
   </body>
-</html>
+</html> 
